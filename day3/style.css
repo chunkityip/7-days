@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 50px;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+#popup {
+    background-color: gray;
+    position: fixed;
+    text-align: center;
+    width: 300px;
+    border-radius: 25px;
+    padding: 1.5em;
+}
+
+#popup button {
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+}

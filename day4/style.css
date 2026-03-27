@@ -10,7 +10,7 @@ html {
     font-family: Poppins, 'Segoe UI';
 }
 
-nav{
+/* nav{
     position: fixed;
     top : 0;
     padding: 25px;
@@ -30,7 +30,7 @@ nav a:hover{
 
 nav a.active{
     color:black;
-}
+} */
 
 
 .title h1{
@@ -54,4 +54,9 @@ a{
     padding-top: 0px;
     width: 1000px;
     height: 150px;
+}
+
+nav {
+    position: fixed;
+    text-decoration: 0;
 }
